@@ -1,3 +1,3 @@
 function cheer() {
-  console.log("Go team!");
+  console.log("Javascript");
 }
