@@ -1,7 +1,5 @@
-
-function cheer() {
-  console.log("Javascript");
-
+function cheer(parameter) {
+  console.log(`Cheer for the ${parameter}`);
 }
 
-cheer();
+cheer("Béla");
