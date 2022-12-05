@@ -1,7 +1,7 @@
 
-function cheer() {
-  console.log("Javascript");
+function cheer(parameter, parameter2) {
+  console.log(`Cheer for the ${parameter} of ${parameter2}`);
 
 }
 
-cheer();
+cheer("Red", "Cardinals");
