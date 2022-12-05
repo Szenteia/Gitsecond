@@ -1,3 +1,4 @@
-function count(){
-    console.log("29")
+function count(age){
+    console.log(age)
 }
+count(29)
