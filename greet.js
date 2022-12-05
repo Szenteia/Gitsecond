@@ -1,5 +1,5 @@
 function greet(name) {
-  console.log(`Greetings for the ${name}`);
+  console.log(`Greetings ${name}`);
 }
 greet(`Bence`);
 greet(`Andris`);
