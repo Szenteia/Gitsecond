@@ -1,3 +1,5 @@
-function count() {
-  console.log("13");
+function count(parameter) {
+  console.log(`Counting the countless ${parameter}`);
 }
+
+count("sheep");
