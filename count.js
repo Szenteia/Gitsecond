@@ -1,4 +1,5 @@
-function count(age, month) {
-  console.log(age, month);
+function count(parameter) {
+  console.log(`Counting the countless ${parameter}`);
 }
-count(29, 10)
+
+count("sheep");
