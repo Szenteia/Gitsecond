@@ -1,6 +1,5 @@
-
 function cheer() {
-  console.log("Javascript");
+  console.log("Javascript_");
 
 }
 
